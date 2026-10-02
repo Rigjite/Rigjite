@@ -1,16 +1,21 @@
-## Hi there 👋
+# Rigjita Baldanova
 
-<!--
-**Rigjite/Rigjite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**PhD Biologist · AI for Good**
 
-Here are some ideas to get you started:
+I work at the intersection of biology and artificial intelligence — applying AI to ecology, environmental protection, and biotechnology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Background
+- PhD in Biology (Lomonosov Moscow State University) — microbiology and molecular biology
+- 10 years in digital marketing in a regulated laboratory environment (FDA / CLIA / CAP)
+- Scientific affairs and preclinical drug research (Rutgers, 2024–2026)
+
+## Focus
+- AI for ecology and climate
+- AI in biotechnology
+- Scientific consulting for environmental and biotech organizations
+
+## Currently
+- DeepLearning.AI "AI for Good" specialization
+- Open to consulting and remote collaboration
+
+📫 Find me on [LinkedIn](https://www.linkedin.com/in/rigjita-baldanova)

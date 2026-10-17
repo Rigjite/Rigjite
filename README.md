@@ -20,7 +20,6 @@ I work at the intersection of biology and artificial intelligence — evaluating
 - Scientific consulting for environmental and biotech organizations
 
 ## Currently
-- DeepLearning.AI "AI for Good" specialization
 - Open to consulting and remote collaboration
 
 📫 Find me on [LinkedIn](https://www.linkedin.com/in/rigjita-baldanova)

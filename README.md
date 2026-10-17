@@ -10,7 +10,7 @@ I work at the intersection of biology and artificial intelligence — evaluating
 
 ## Background
 - PhD in Biology (Lomonosov Moscow State University) — microbiology and molecular biology
-- 10 years in digital marketing in a regulated laboratory environment (FDA / CLIA / CAP)
+- Scientific Affairs Manager (TOPLAB) & Laboratory Project Manager (Accu Reference) — regulated clinical environments (CLIA/CAP)
 - Scientific affairs and preclinical drug research (Rutgers, 2024–2026)
 
 ## Focus

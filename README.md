@@ -9,7 +9,7 @@ I work at the intersection of biology and artificial intelligence — evaluating
 - [Scientific-Editor-AI-Protocol](https://github.com/Rigjite/Scientific-Editor-AI-Protocol) — hallucination-mitigation prompt engineering & pre-submission audit protocol for biomedical manuscripts, clinical SOPs, and regulatory documentation
 
 ## Background
-- PhD in Biology (Lomonosov Moscow State University) — microbiology and molecular biology
+- PhD in Biology (Lomonosov Moscow State University) 
 - Scientific Affairs Manager (TOPLAB) & Laboratory Project Manager (Accu Reference) — regulated clinical environments (CLIA/CAP)
 - Scientific affairs and preclinical drug research (Rutgers, 2024–2026)
 
